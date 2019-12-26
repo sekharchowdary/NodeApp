@@ -9,7 +9,11 @@
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "https://github.com/sekharchowdary/NodeApp.git"
+=======
+    "url": "https://github.com/sekharchowdary/NodeApp"
+>>>>>>> 8f967c9ba2abf5b945c95ee06241e45216c4ec75
   },
   "keywords": [
     "node",
